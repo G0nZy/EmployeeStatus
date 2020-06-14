@@ -1,0 +1,19 @@
+{
+  "name": "employeestatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G0nZy/EmployeeStatus.git"
+  },
+  "author": "g0nzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G0nZy/EmployeeStatus/issues"
+  },
+  "homepage": "https://github.com/G0nZy/EmployeeStatus#readme"
+}
